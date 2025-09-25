@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DinaTolotra
 - 👀 I’m interested in Physics and Astronomy
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning to learn
 - 🔍 I’m looking to collaborate on some projects to practice
 
 <!---
