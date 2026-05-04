@@ -81,7 +81,7 @@ available:  Open to collaborations ✅
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-<td>
+<td width="55%">
   
 ### 🚀 Featured Projects
   
