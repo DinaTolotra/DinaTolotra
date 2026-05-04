@@ -1,1 +1,1 @@
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dinatolotra/langs)](https://githubtrends.io)
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/dinatolotra/langs)](https://githubtrends.io)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinatolotra&theme=github_dark)
