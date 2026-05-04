@@ -50,8 +50,6 @@ available:  Open to collaborations ✅
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinatolotra&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=dinatolotra&theme=tokyonight&hide_border=true)
-
 </td>
 </tr>
 </table>
