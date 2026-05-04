@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td width="55%" align="center>
+<td width="55%">
 
 ### 🧠 About Me
 
@@ -44,7 +44,7 @@ focus:      Web · APIs · CLI tools
 available:  Open to collaborations ✅
 ```
 </td>
-<td width="45%" align="center">
+<td width="45%">
 
 ### 📊 GitHub Stats
 
