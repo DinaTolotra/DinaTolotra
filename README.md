@@ -58,6 +58,10 @@ available:  Open to collaborations ✅
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
+<table>
+<tr>
+<td width="45%">
+  
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -76,16 +80,11 @@ available:  Open to collaborations ✅
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  FEATURED PROJECTS  ━━━━━━━━━━━━━━━━━━━━━━ -->
-
+</td>
+<td>
+  
 ### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
+  
 #### [Push swap](https://github.com/nyyharenaa/push_swap)
 > An implemtation and customization of 3 common sorting algorithms for stack.
 
@@ -94,7 +93,7 @@ available:  Open to collaborations ✅
 ![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
 
 </td>
-</table>
+</tr>
 
 ---
 
