@@ -1,1 +1,2 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinatolotra&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinatolotra&theme=github_dark" />
