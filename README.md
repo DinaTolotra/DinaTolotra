@@ -2,13 +2,13 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-```
+<p align="center">
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║   ▒▒▒  Hi, I'm @dinatolotra — I build things that matter  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+</p>
 
 # Dina Tolotra
 
@@ -93,22 +93,9 @@ available:  Open to collaborations ✅
 
 ![Commit](https://img.shields.io/github/commit-activity/t/nyyharenaa/push_swap?style=flat-square&color=yellow)
 ![Contributor](https://img.shields.io/github/contributors/nyyharenaa/push_swap?style=flat-square&color=blue)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
 
 </td>
-<td width="50%">
-
-#### [Mada budget](https://github.com/DinaTolotra/mada-budget)
-> Finance managment system focused on data ownership.
-
-![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/mada-budget?style=flat-square&color=yellow)
-![Contributor](https://img.shields.io/github/contributors/DinaTolotra/mada-budget?style=flat-square&color=blue)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-</tr>
 </table>
 ---
 
