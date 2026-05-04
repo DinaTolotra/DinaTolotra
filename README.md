@@ -95,6 +95,7 @@ available:  Open to collaborations ✅
 
 </td>
 </table>
+
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  ACTIVITY GRAPH  ━━━━━━━━━━━━━━━━━━━━━━ -->
