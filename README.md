@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━━━━━ -->
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -9,6 +10,8 @@
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 # Dina Tolotra
 
@@ -41,7 +44,7 @@ name:       Dina Tolotra
 location:   Antananarivo, Mada.
 role:       Full-Stack Engineer
 focus:      Web · APIs · CLI tools
-available:  Open to collaborations ✅
+available:  Open to collaborations
 ```
 </td>
 <td width="45%">
@@ -60,9 +63,19 @@ available:  Open to collaborations ✅
 
 <table>
 <tr>
-<td width="45%">
-  
+<td>
+
 ### 🛠️ Tech Stack
+
+</td>
+<td>
+
+### 🚀 Featured Projects
+
+</td>
+</tr>
+<tr>
+<td width="45%">
 
 **Languages**
 
@@ -82,9 +95,19 @@ available:  Open to collaborations ✅
 
 </td>
 <td width="55%">
-  
-### 🚀 Featured Projects
-  
+<ul>
+<li>
+
+#### [libft](https://github.com/DinaTolotra/libft)
+> A custom c library containing a re-implementation of some standard function and a set of string utility.
+
+![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/libft?style=flat-square&color=yellow)
+![Contributor](https://img.shields.io/github/contributors/DinaTolotra/libft?style=flat-square&color=blue)
+![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
+
+</li>
+<li>
+
 #### [Push swap](https://github.com/nyyharenaa/push_swap)
 > An implemtation and customization of 3 common sorting algorithms for stack.
 
@@ -92,8 +115,11 @@ available:  Open to collaborations ✅
 ![Contributor](https://img.shields.io/github/contributors/nyyharenaa/push_swap?style=flat-square&color=blue)
 ![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
 
+</li>
+</ul>
 </td>
 </tr>
+</table>
 
 ---
 
@@ -108,8 +134,6 @@ available:  Open to collaborations ✅
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=dinatolotra&color=58A6FF&style=flat-square&label=Profile+Views)
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
