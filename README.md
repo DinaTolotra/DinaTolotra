@@ -48,7 +48,7 @@ available:  Open to collaborations ✅
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dinatolotra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Stats]([https://github-readme-stats.vercel.app/api?username=dinatolotra&show_icons=true&](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinatolotra&theme=tokyonight))
 
 ![Streak](https://streak-stats.demolab.com?user=dinatolotra&theme=tokyonight&hide_border=true)
 
