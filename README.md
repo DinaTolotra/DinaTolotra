@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td>
 
 ### 🧠 About Me
 
@@ -46,13 +46,6 @@ role:       Full-Stack Engineer
 focus:      Web · APIs · CLI tools
 available:  Open to collaborations
 ```
-</td>
-<td width="45%">
-
-### 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinatolotra&theme=tokyonight)
-
 </td>
 </tr>
 </table>
