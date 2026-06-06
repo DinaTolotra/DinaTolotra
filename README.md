@@ -34,7 +34,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  PROFILE SUMMARY CARD  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <table>
-<tr>
+<tr width="100%">
 <td>
 
 ### 🧠 About Me
