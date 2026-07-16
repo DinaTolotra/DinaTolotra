@@ -41,10 +41,10 @@
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&&logo=rust&logoColor=white)
 
 </li>
 <li>
@@ -54,7 +54,7 @@
 
 ![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/python-module08?style=flat-square&color=yellow)
 ![Contributor](https://img.shields.io/github/contributors/DinaTolotra/python-module08?style=flat-square&color=blue)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 </li>
 </ul>
