@@ -49,11 +49,11 @@
 </li>
 <li>
 
-#### [Python module 08](https://github.com/DinaTolotra/python_module08)
+#### [Python module 08](https://github.com/DinaTolotra/python-module08)
 > A demonstration of the usage of a virtual environement, package management and environement variable.
 
-![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/python_module08?style=flat-square&color=yellow)
-![Contributor](https://img.shields.io/github/contributors/DinaTolotra/python_module08?style=flat-square&color=blue)
+![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/python-module08?style=flat-square&color=yellow)
+![Contributor](https://img.shields.io/github/contributors/DinaTolotra/python-module08?style=flat-square&color=blue)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </li>
