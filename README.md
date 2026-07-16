@@ -43,7 +43,7 @@
 
 ![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 </li>
@@ -54,7 +54,7 @@
 
 ![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/python-module08?style=flat-square&color=yellow)
 ![Contributor](https://img.shields.io/github/contributors/DinaTolotra/python-module08?style=flat-square&color=blue)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </li>
 </ul>
