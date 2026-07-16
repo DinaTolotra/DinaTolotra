@@ -120,7 +120,7 @@ available:  Open to collaborations
 
 ### 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinatolotra&theme=tokyo-night&hide_border=true)](https://github.com/dinatolotra)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinatolotra&theme=tokyo-night&hide_border=true&days=7)](https://github.com/dinatolotra)
 
 ---
 
