@@ -23,7 +23,6 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  SOCIAL BADGES  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dinatolotra.github.io)
 [![Github](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/dinatolotra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratsinjomananatolotra@gmail.com)
 
@@ -35,7 +34,7 @@
 
 <table>
 <tr>
-<td width="45%">
+<td width="50%">
 <ul>
 <li>
 
