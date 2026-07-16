@@ -52,6 +52,7 @@
 **Languages**
 
 ![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
