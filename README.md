@@ -31,27 +31,6 @@
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  PROFILE SUMMARY CARD  ━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<table>
-<tr width="100%">
-<td>
-
-### 🧠 About Me
-
-```yaml
-name:       Dina Tolotra
-location:   Antananarivo, Mada.
-role:       Full-Stack Engineer
-focus:      Web · APIs · CLI tools
-available:  Open to collaborations
-```
-</td>
-</tr>
-</table>
-
----
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <table>
