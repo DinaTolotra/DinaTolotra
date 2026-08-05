@@ -1,18 +1,5 @@
 <div align="center">
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━━━━━ -->
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   ▒▒▒  Hi, I'm @dinatolotra — I build things that matter  ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 # Dina Tolotra
 
 **Full-Stack Engineer · Open Source Contributor · Coffee-driven coder**
