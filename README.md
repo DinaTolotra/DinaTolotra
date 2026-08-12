@@ -19,58 +19,12 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<table>
-<tr>
-<td width="50%">
-<ul>
-<li>
-
 **Languages**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&&logo=rust&logoColor=white)
-
-</li>
-<li>
-
-#### [Python module 08](https://github.com/DinaTolotra/python-module08)
-> A demonstration of the usage of a virtual environement, package management and environement variable.
-
-![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/python-module08?style=flat-square&color=yellow)
-![Contributor](https://img.shields.io/github/contributors/DinaTolotra/python-module08?style=flat-square&color=blue)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-</li>
-</ul>
-</td>
-<td width="55%">
-<ul>
-<li>
-
-#### [libft](https://github.com/DinaTolotra/libft)
-> A custom c library containing a re-implementation of some standard function and a set of string utility.
-
-![Commit](https://img.shields.io/github/commit-activity/t/DinaTolotra/libft?style=flat-square&color=yellow)
-![Contributor](https://img.shields.io/github/contributors/DinaTolotra/libft?style=flat-square&color=blue)
-![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
-
-</li>
-<li>
-
-#### [Push swap](https://github.com/nyyharenaa/push_swap)
-> An implemtation and customization of 3 common sorting algorithms for stack.
-
-![Commit](https://img.shields.io/github/commit-activity/t/nyyharenaa/push_swap?style=flat-square&color=yellow)
-![Contributor](https://img.shields.io/github/contributors/nyyharenaa/push_swap?style=flat-square&color=blue)
-![C](https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white)
-
-</li>
-</ul>
-</td>
-</tr>
-</table>
 
 ---
 
