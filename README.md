@@ -17,22 +17,11 @@
 
 ---
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━━ -->
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&&logo=rust&logoColor=white)
-
----
-
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  ACTIVITY GRAPH  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ### 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinatolotra&theme=tokyo-night&hide_border=true&days=7)](https://github.com/dinatolotra)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinatolotra&theme=tokyo-night&hide_border=true&days=30)](https://github.com/dinatolotra)
 
 ---
 
