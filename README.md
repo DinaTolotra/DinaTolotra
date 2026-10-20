@@ -14,21 +14,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratsinjomananatolotra@gmail.com)
 
 </div>
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  ACTIVITY GRAPH  ━━━━━━━━━━━━━━━━━━━━━━ -->
-
-### 📈 Contribution Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dinatolotra&theme=tokyo-night&hide_border=true&days=30)](https://github.com/dinatolotra)
-
----
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code." — John Johnson*
-
-</div>
