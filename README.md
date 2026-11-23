@@ -12,6 +12,6 @@
 
 [![Github](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DinaTolotra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratsinjomananatolotra@gmail.com)
-[![Website](https://img.shields.io/badge/Website?url=https%3A%2F%2FDinaTolotra.github.io&style=for-the-badge)](https://DinaTolotra.github.com)
+[![Website](https://img.shields.io/badge/?url=https%3A%2F%2FDinaTolotra.github.io&style=for-the-badge)](https://DinaTolotra.github.com)
 
 </div>
