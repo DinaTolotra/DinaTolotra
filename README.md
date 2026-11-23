@@ -2,7 +2,7 @@
 
 # Dina Tolotra
 
-**Full-Stack Engineer · Open Source Contributor · Coffee-driven coder**
+**Full-Stack Engineer · AI Enthusiast · Sleep-deprived coder**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+things+that+matter.;Collaboration+enthusiast.;Always+learning%2C+always+shipping.)](https://git.io/typing-svg)
 
