@@ -10,8 +10,8 @@
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━  SOCIAL BADGES  ━━━━━━━━━━━━━━━━━━━━━━ -->
 
-[![Github](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/dinatolotra)
+[![Github](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white)]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratsinjomananatolotra@gmail.com)
-[![Website](https://img.shields.io/website-D14836?url=https%3A%2F%2FDinaTolotra.github.io&style=for-the-badge&logo=gmail&logoColor=white)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2FDinaTolotra.github.io&style=for-the-badge)
 
 </div>
